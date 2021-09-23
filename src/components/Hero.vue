@@ -1,5 +1,5 @@
 <template>
-  <div class="jumbotron">
+  <div class="applauses">
       <img src="../assets/applause-8.gif" alt="Applausi per Vue CLI">
   </div>
 </template>
